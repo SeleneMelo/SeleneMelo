@@ -9,7 +9,7 @@
 
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=SeleneMelo&show_icons=true&theme=tokyonight&card_width=350"/>
+<img src="https://github-readme-stats.vercel.app/api?username=SeleneMelo&show_icons=true&theme=tokyonight&card_width=300"/>
 
 <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SeleneMelo&layout=compact&langs_count=8&theme=tokyonight&include_all_commits=true&count_private=true&card_width=350"/>
 
