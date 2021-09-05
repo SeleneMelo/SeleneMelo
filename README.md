@@ -11,7 +11,7 @@
 ![Selene Melo's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeleneMelo&show_icons=true&theme=cobalt)
 
 <a href="https://github.com/SeleneMelo/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SeleneMelo&repo=SeleneMelo" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeleneMelo&langs_count=8&theme=cobalt)](https://github.com/SeleneMelo/github-readme-stats" />
 </a>
 <a href="https://github.com/SeleneMelo/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SeleneMelo&repo=SeleneMelo" />
