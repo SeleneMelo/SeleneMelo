@@ -6,3 +6,6 @@
 - 📫 How to reach me: selenemelo2000@gmail.com
 - ⚡ Fun fact: I'm passionate about cats, computer science, laws of the universe and netflix!
 - :camera: Check out my flickr: https://www.flickr.com/photos/188150337@N03/
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=cobalt)
+
