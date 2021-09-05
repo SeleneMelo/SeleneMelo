@@ -8,5 +8,6 @@
 - :camera: Check out my flickr: https://www.flickr.com/photos/188150337@N03/
 
 ![Selene Melo's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeleneMelo&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeleneMelo&layout=compact)](https://github.com/SeleneMelo/github-readme-stats)
 
 
