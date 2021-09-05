@@ -7,5 +7,8 @@
 - ⚡ Fun fact: I'm passionate about cats, computer science, laws of the universe and netflix!
 - :camera: Check out my flickr: https://www.flickr.com/photos/188150337@N03/
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?SeleneMelo=anuraghazra&show_icons=true&theme=cobalt)
+![Selene Melo's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeleneMelo_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
+
 
