@@ -8,5 +8,5 @@
 - :camera: Check out my flickr: https://www.flickr.com/photos/188150337@N03/
 
 ![Selene Melo's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeleneMelo&show_icons=true&theme=cobalt)
-https://github-readme-stats.vercel.app/api/top-langs/?username=SeleneMelo&theme=cobalt
-https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white
+(https://github-readme-stats.vercel.app/api/top-langs/?username=SeleneMelo&theme=radical)
+
