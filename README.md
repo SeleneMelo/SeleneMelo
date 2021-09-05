@@ -7,7 +7,6 @@
 - ⚡ Fun fact: I'm passionate about cats, computer science, laws of the universe and netflix!
 - :camera: Check out my flickr: https://www.flickr.com/photos/188150337@N03/
 
-![Selene Melo's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeleneMelo&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeleneMelo&langs_count=8)](https://github.com/SeleneMelo/github-readme-stats)
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.13.0/devicon.min.css">
-<i class="devicon-cplusplus-plain colored"></i>
+![Selene Melo's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeleneMelo&show_icons=true&theme=cobalt)
+https://github-readme-stats.vercel.app/api/top-langs/?username=SeleneMelo&theme=cobalt
+https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white
