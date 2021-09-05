@@ -9,9 +9,5 @@
 
 ![Selene Melo's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeleneMelo&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeleneMelo&langs_count=8)](https://github.com/SeleneMelo/github-readme-stats)
-<a href="https://github.com/SeleneMelo/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SeleneMelo&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/SeleneMelo/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SeleneMelo&repo=convoychat" />
-</a>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.13.0/devicon.min.css">
+<i class="devicon-cplusplus-plain colored"></i>
