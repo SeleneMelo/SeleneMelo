@@ -1,27 +1,33 @@
 ### Hi, there!👋 
 ### Selene here! I'm an brazilian undergraduate student of Information Systems at UFMG. 
 
-- :computer: I’m currently studying C++, Python, Verilog and PHP
+- :computer: I’m currently studying C++
 - 💬 Ask me abouy anything you want. 
 - 📫 How to reach me: selenemelo2000@gmail.com
 - ⚡ Fun fact: I'm passionate about cats, computer science, laws of the universe and netflix!
 - :camera: Check out my flickr: https://www.flickr.com/photos/188150337@N03/
 
+<div align="center">
+  <a href="https://github.com/SeleneMelo">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SeleneMelo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeleneMelo&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+  
+<div style="display: inline_block"><br>
+ <img align="center" alt="Selene-C" height="30"width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+ <img align="center" alt="Selene-Cpp" height="30"width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
+ <img align="center" alt="Selene-py" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="center" alt="Selene-sql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg">
+ <img align="center" alt="Selene-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  </div>
+  
+  
+<div style="display: inline_block"><br>
+<a href="https://instagram.com/selenemeloa" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://discord.gg/2cN4nA7E" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+<a href="https://github.com/SeleneMelo" target="_blank"><img src="https://img.shields.io/badge/GitHub-000000?&style=for-the-badge&logo=GitHub&logoColor=white"
+target="_blank"></a>
+<a href = "mailto:selenemelo2000@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href= "https://twitter.com/selenemelo_" target="_blank"><img src="https://img.shields.io/twitter/url/http/shields.io.svg?style=for-the-badge&logo=Twitter&logoColor=white" target="_blank"></a>
+</div>
 
-
-<img src="https://github-readme-stats.vercel.app/api?username=SeleneMelo&show_icons=true&theme=tokyonight&card_width=50"/>
-
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SeleneMelo&layout=compact&langs_count=8&theme=tokyonight&include_all_commits=true&count_private=true&card_width=50"/>
-
-
-<a href="https://github.com/SeleneMelo" alt="github" target="_blank">
-
-<img src="https://img.shields.io/badge/GitHub-000000?&style=flat-square&logo=GitHub&logoColor=white">
-
-</a>
-
-<a href="mailto:selenemelo2000@gmail.com" alt="gmail" target="_blank">
-
-<img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:selenemelo2000@gmail.com" />
-
-</a>
