@@ -29,7 +29,7 @@
 <a href="https://discord.gg/2cN4nA7E" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
 <a href="https://github.com/SeleneMelo" target="_blank"><img src="https://img.shields.io/badge/GitHub-000000?&style=for-the-badge&logo=GitHub&logoColor=white"
 target="_blank"></a>
-<a href = "mailto:selenemelo2000@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=yellow" target="_blank"></a>
-<a href= "https://twitter.com/selenemelo_" target="_blank"><img src="https://img.shields.io/twitter/url/http/shields.io.svg?style=for-the-badge&logo=Twitter&logoColor=white" target="_blank"></a>
+<a href = "mailto:selenemelo2000@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
+<a href= "https://twitter.com/selenemelo_" target="_blank"><img src="https://img.shields.io/twitter/url/http/shields.io.svg?style=for-the-badge&logo=Twitter&logoColor=blue" target="_blank"></a>
 </div>
 
