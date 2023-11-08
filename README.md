@@ -1,5 +1,5 @@
 ### Hi, there!👋 
-### Selene here! I'm an brazilian undergraduate student of Information Systems at UFMG. 
+### Selene here! I'm a brazilian undergraduate student of Information Systems at UFMG. 
 
 - :computer: I’m currently studying C/C++, Python and PHP
 - 💬 Ask me abouy anything you want. 
