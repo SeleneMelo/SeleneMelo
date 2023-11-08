@@ -1,8 +1,8 @@
 ### Hi, there!👋 
-### Selene here! I'm a brazilian undergraduate student of Information Systems at UFMG. 
+### Selene here! I'm a brazilian undergraduate student of Information Systems at UFMG
 
 - :computer: I’m currently studying C/C++, Python and PHP
-- 💬 Ask me abouy anything you want. 
+- 💬 Ask me about anything you want
 - 📫 How to reach me: selenemelo2000@gmail.com
 - ⚡ Fun fact: I'm passionate about cats, computer science, laws of the universe and netflix!
 - :camera: Check out my flickr: https://www.flickr.com/photos/188150337@N03/
