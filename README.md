@@ -1,10 +1,10 @@
-### Hi, there!👋 
+### Hi 👋 
 ### Selene here! I'm a brazilian undergraduate student of Information Systems at UFMG
 
-- :computer: I’m currently studying C/C++, Python and PHP
+- :computer: I’m currently studying C/C++, Python and Java
 - 💬 Ask me about anything you want
 - 📫 How to reach me: selenemelo2000@gmail.com
-- ⚡ Fun fact: I'm passionate about cats, computer science, laws of the universe and netflix!
+- ⚡ Fun fact: I'm passionate about cats, computer science, laws of the universe and animes!
 - :camera: Check out my flickr: https://www.flickr.com/photos/188150337@N03/
 
 <div align="center">
