@@ -23,7 +23,6 @@
   <img align="center" alt="Selene-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="Selene-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Selene-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Selene-Java" height="30" width="40" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeleneMelo&langs_count=8">
 
           
 </div>
