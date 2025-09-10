@@ -4,16 +4,15 @@
 - :computer: I’m currently studying C/C++, Python and Java
 - 💬 Ask me about anything you want
 - 📫 How to reach me: selenemelo2000@gmail.com
-- ⚡ Fun fact: I'm passionate about cats, computer science, laws of the universe and animes!
+- ⚡ Fun fact: I'm passionate about cats, computer science, laws of the universe and culinary realitty shows!
 - :camera: Check out my flickr: https://www.flickr.com/photos/188150337@N03/
 
 <div align="left">
    <a href="https://github.com/SeleneMelo">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SeleneMelo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeleneMelo&layout=compact&langs_count=7&theme=dracula"/>
-
-   
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SeleneMelo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=1800&v=2"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeleneMelo&layout=compact&langs_count=7&theme=dracula&cache_seconds=1800&v=2"/>
 </div>
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Selene-C" height="30"width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
