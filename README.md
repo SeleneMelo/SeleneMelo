@@ -1,5 +1,5 @@
 ### Hi 👋 
-### Selene here! I'm a brazilian researcher student of Information Systems at UFMG
+### Selene here! I'm a brazilian researcher and Information Systems student at UFMG 🇧🇷
 
 
 - 📚Currently exploring: Deploying sentence embedding models for semantic analysis and sentiment extraction in text data
