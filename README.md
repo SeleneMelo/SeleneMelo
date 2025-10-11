@@ -1,17 +1,24 @@
 ### Hi 👋 
-### Selene here! I'm a brazilian undergraduate student of Information Systems at UFMG
+### Selene here! I'm a brazilian researcher student of Information Systems at UFMG
 
-- :computer: I’m currently studying C/C++, Python and Java
-- 💬 Ask me about anything you want
+
+- 📚Currently exploring: Deploying sentence embedding models for semantic analysis and sentiment extraction in text data
+- 🤖 AI research: Building intelligent agents with semantic enriched data for route planning 
+- :computer: Programming Languages: C/C++, Python, PHP and Java
+- 💬 Curious? Ask me about anything. I enjoy discussing AI, coding and computer science's problems
 - 📫 How to reach me: selenemelo2000@gmail.com
-- ⚡ Fun fact: I'm passionate about cats, computer science, laws of the universe and culinary realitty shows!
+- ⚡ Fun fact: I'm passionate about cats, computer science, unraveling the laws of the universe and cooking-inspired reality shows!
 - :camera: Check out my flickr: https://www.flickr.com/photos/188150337@N03/
+
+
+<div align="right"> <img height="80em"  width="80" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHJ3ZXhrYWd6Y292Y3lrcW5qcmpzYW53dWc3ZWFmb2Q5eWQ2ZnMzcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VJTAhOzkmy7620OMK8/giphy.gif" alt="fun researcher gif"/>  </div>
 
 <div align="left">
    <a href="https://github.com/SeleneMelo">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SeleneMelo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=1800&v=2"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeleneMelo&layout=compact&langs_count=7&theme=dracula&cache_seconds=1800&v=2"/>
 </div>
+
 
 
 <div style="display: inline_block"><br>
