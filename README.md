@@ -19,6 +19,8 @@
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeleneMelo&layout=compact&langs_count=7&theme=dracula&cache_seconds=1800&v=2"/>
 </div>
 
+<div align="right"> <img height="100em"  width="100" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHJ3ZXhrYWd6Y292Y3lrcW5qcmpzYW53dWc3ZWFmb2Q5eWQ2ZnMzcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VJTAhOzkmy7620OMK8/giphy.gif" alt="fun researcher gif"/>  </div>
+
 
 
 <div style="display: inline_block"><br>
