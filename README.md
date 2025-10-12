@@ -3,11 +3,11 @@
 
 
 - 📚Currently exploring: Deploying sentence embedding models for semantic analysis and sentiment extraction in text data
-- 🤖 AI research: Building intelligent agents with semantic enriched data for route planning 
+- 🤖 AI research: Building intelligent agents with semantically enriched data for route planning 
 - :computer: Programming Languages: C/C++, Python, PHP and Java
-- 💬 Curious? Ask me about anything. I enjoy discussing AI, coding and computer science's problems
+- 💬 Curious? Ask me about anything. I enjoy discussing AI, coding and computer science problems
 - 📫 How to reach me: selenemelo2000@gmail.com
-- ⚡ Fun fact: I'm passionate about cats, computer science, unraveling the laws of the universe and cooking-inspired reality shows!
+- ⚡ Fun fact: I'm passionate about cats, computer science, uncovering the laws of the universe and cooking reality shows!
 - :camera: Check out my flickr: https://www.flickr.com/photos/188150337@N03/
 
 
