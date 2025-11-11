@@ -1,17 +1,39 @@
 ### Hi 👋 
-### Selene here! I'm a brazilian researcher and Information Systems student at UFMG 🇧🇷
 
+### Selene here! I'm a Brazilian researcher and Information Systems B.Sc. student at UFMG  🇧🇷
 
-- 📚Currently exploring: Deploying sentence embedding models for semantic analysis and sentiment extraction in text data
-- 🤖 AI research: Building intelligent agents with semantically enriched data for route planning 
-- :computer: Programming Languages: C/C++, Python, PHP and Java
-- 💬 Curious? Ask me about anything. I enjoy discussing AI, coding and computer science problems
-- 📫 How to reach me: selenemelo2000@gmail.com
-- ⚡ Fun fact: I'm passionate about cats, computer science, uncovering the laws of the universe and cooking reality shows!
-- :camera: Check out my flickr: https://www.flickr.com/photos/188150337@N03/
+💡**About me:**
 
+From a young age, I was fascinated by how complex systems work, a curiosity shaped by being the daughter of a Logic professor. Today, that early spark drives my research in **Artificial Intelligence**, **Machine Learning**, and **model interpretability**
 
-<div align="right"> <img height="80em"  width="80" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHJ3ZXhrYWd6Y292Y3lrcW5qcmpzYW53dWc3ZWFmb2Q5eWQ2ZnMzcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VJTAhOzkmy7620OMK8/giphy.gif" alt="fun researcher gif"/>  </div>
+🧠 **Current focus:** 
+- Developing, optimizing, and promoting the *responsible use of AI agents powered by Large Language Models (LLMs)*
+- As a member of **Future Lab (UFMG)**, I contribute to projects on **AI interpretability**, **optimization**, and **decentralized intelligence** — including a **FAPEMIG-funded initiative** on the *Decentralization and Privacy of LLMs for National Technological Independence*
+- Deploying sentence embedding models for semantic analysis and sentiment/survival extraction in chatbots conversations
+
+🔍 **Research interests:**  
+- Responsible & interpretable AI systems (explainability, fairness, safety)  
+- Knowledge Distillation, LoRA, and RAG applied to LLMs  
+- Semantic analysis and sentiment/survival modeling in human–AI interactions  
+- Nano-computation and the intersection between **AI, physics, and hardware innovation**
+
+📚 **Recent research topics & pre-publications:**  
+- Measurement of Lead Temperature using NLP
+- Quantification and Classification of Graphene Flakes in AFM Images using Machine Learning  
+- Towards Responsible, Interpretable, and Fair Safety Moderation of LLMs Across Demographic and Educational Contexts  
+- Heuristics for the Pit Sequencing Problem with Capacity Constraint (CPIT)
+  
+🧰 **Tech Stack**  
+- **Toolkit:** Python, SmolAgents, HuggingFace, TensorFlow, Keras, PyTorch, OpenCV, Scikit-learn, MLFlow, Docker, SHAP/LIME, Git, CI/CD  
+- **Programming:** C/C++, Python, Perl, PHP, Java  
+
+💬 Curious? Ask me about anything. I enjoy discussing AI, coding and computer science theory
+
+📫 How to reach me: selene@ufmg.br
+
+⚡ Fun fact: I'm passionate about cats, computer science, uncovering the laws of the universe and cooking reality shows!
+
+:camera: Check out my flickr: https://www.flickr.com/photos/188150337@N03/
 
 <div align="left">
    <a href="https://github.com/SeleneMelo">
@@ -24,10 +46,18 @@
   <img align="center" alt="Selene-C" height="30"width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="Selene-Cpp" height="30"width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="Selene-py" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" alt="Selene-sql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg">
   <img align="center" alt="Selene-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="Selene-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Selene-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Selene-flask" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg">
+  <img align="center" alt="Selene-Keras" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg">
+  <img align="center" alt="Selene-Matplotlib" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg">
+  <img align="center" alt="Selene-Numpy" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">
+  <img align="center" alt="Selene-Pandas" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg">
+  <img align="center" alt="Selene-Plotly" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/8/88/Plotly_logo_notext.svg">
+  <img align="center" alt="Selene-Scikit" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg">
+  <img align="center" alt="Selene-TensorFlow" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg">
+  <img align="center" alt="Selene-HuggingFace" height="30" width="40" src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg">
 
           
 </div>
@@ -41,4 +71,10 @@ target="_blank"></a>
 <a href = "mailto:selenemelo2000@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
 
 </div>
+
+
+
+
+
+
 
