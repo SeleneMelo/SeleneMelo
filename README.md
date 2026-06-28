@@ -1,37 +1,40 @@
-### Hi 👋 
+# Selene Melo
 
-### Selene here! I'm a Brazilian researcher and Information Systems B.Sc. student at UFMG  🇧🇷
 
-💡**About me:**
+🎓 I'm a bachalor in Information System at UFMG 
 
-From a young age, I was fascinated by how complex systems work, a curiosity shaped by being the daughter of a Logic professor. Today, that early spark drives my research in **Artificial Intelligence**, **Machine Learning**, and **model interpretability**
+🧠 AI Researcher and developer at FutureLAB, UFMG
 
-🧠 **Current focus:** 
-- Developing, optimizing, and promoting the *responsible use of AI agents powered by Large Language Models (LLMs)*
-- As a member of **Future Lab (UFMG)**, I contribute to projects on **AI interpretability**, **optimization**, and **decentralized intelligence** — including a **FAPEMIG-funded initiative** on the *Decentralization and Privacy of LLMs for National Technological Independence*
+📍 Belo Horizonte, Minas Gerais
+## 💡About me
+
+I'm passionate about developing and optimizing AI systems.I enjoy searching and reading new papers about novel AI techniques and being aware of Foundation Models and Generative AI state of the art. I'm a beginner student of Mandarin and I'm in love with the Chinese culture and costumes. I love to cook chinese foods and I dream about getting the oportunity to visit the country soon and maybe learning a bit of Shaolin Kung Fu! I also love photography, cats and watching sci-fi series and movies. 
+____________________________________________________________________________________________________________________________________________________________________
+🚀 **Current focus** 
+- I'm currently working with agentic AI systems optimization and developing Small Languages Models for companies that uses conversational models and natural languages processing for sales. *Did you know that its possible to derive users'intent throught the user-model conversation semantic latent space?*
 - Deploying sentence embedding models for semantic analysis and sentiment/survival extraction in chatbots conversations
+____________________________________________________________________________________________________________________________________________________________________
+🔍 **Research interests**  
+- AI Engineering: Foundation models, Generative AI, Agentic systems and Machine Learning techniques
+- Faithfulness, fairness and safety on AI systems deployment 
+- Parameter Efficient Fine-Tuning techniques
+- Semantic analysis and sentiment/survival NLP modeling in human–AI interactions
+- Real-time semantic data enrichment for urban mobility
 
-🔍 **Research interests:**  
-- Responsible & interpretable AI systems (explainability, fairness, safety)  
-- Knowledge Distillation, LoRA, and RAG applied to LLMs  
-- Semantic analysis and sentiment/survival modeling in human–AI interactions  
-- Nano-computation and the intersection between **AI, physics, and hardware innovation**
-
-📚 **Recent research topics & pre-publications:**  
-- Measurement of Lead Temperature using NLP
-- Quantification and Classification of Graphene Flakes in AFM Images using Machine Learning  
-- Towards Responsible, Interpretable, and Fair Safety Moderation of LLMs Across Demographic and Educational Contexts  
-- Heuristics for the Pit Sequencing Problem with Capacity Constraint (CPIT)
-  
+📚 **Recent research**  
+- Foundation Models and NLP: Measurement of Lead Temperature using NLP and semantic analysis of the conversational embbeding space in agentic systems (FAPEMIG Project) 
+- Intelligent Cities, Foundation Models and Agentic Systems: Multi-agent approach for the real-time semantic entichment of urban mobility data (TCC)
+____________________________________________________________________________________________________________________________________________________________________
 🧰 **Tech Stack**  
-- **Toolkit:** Python, SmolAgents, HuggingFace, TensorFlow, Keras, PyTorch, OpenCV, Scikit-learn, MLFlow, Docker, SHAP/LIME, Git, CI/CD  
-- **Programming:** C/C++, Python, Perl, PHP, Java  
+- **Programming Languages:** C/C++, Python, JavaScript, PHP, CSS
+- **AI and Machine Learning toolkit:** SmolAgents, HuggingFace, TensorFlow, Keras, PyTorch, MLFlow, SHAP/LIME
+- **Computer Vision and Data Science toolkit:** OpenCV, Scikit-learn, Numpy, Pandas, Matplotlib, Seaborn
+- **Data engineer and DevOps:** Git, Docker, Automated Excel, Power BI, CI/CD
+____________________________________________________________________________________________________________________________________________________________________
 
-💬 Curious? Ask me about anything. I enjoy discussing AI, coding and computer science theory
+💬 Curious? Ask me about anything and considere visiting my WebSite! I enjoy discussing AI, Computer Science theory, Inteligent Cities conectivitty and 中国文
 
 📫 How to reach me: selene@ufmg.br
-
-⚡ Fun fact: I'm passionate about cats, computer science, uncovering the laws of the universe and cooking reality shows!
 
 :camera: Check out my flickr: https://www.flickr.com/photos/188150337@N03/
 
