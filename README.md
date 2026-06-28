@@ -1,42 +1,48 @@
 # Selene Melo
 
-
-🎓 I'm a bachalor in Information System at UFMG 
-
-🧠 AI Researcher and developer at FutureLAB, UFMG
-
+🎓 Bachelor in Information Systems at UFMG
+🧠 AI Researcher and Developer at FutureLAB, UFMG
 📍 Belo Horizonte, Minas Gerais
-## 💡About me
 
-I'm passionate about developing and optimizing AI systems.I enjoy searching and reading new papers about novel AI techniques and being aware of Foundation Models and Generative AI state of the art. I'm a beginner student of Mandarin and I'm in love with the Chinese culture and costumes. I love to cook chinese foods and I dream about getting the oportunity to visit the country soon and maybe learning a bit of Shaolin Kung Fu! I also love photography, cats and watching sci-fi series and movies. 
-____________________________________________________________________________________________________________________________________________________________________
-🚀 **Current focus** 
-- I'm currently working with agentic AI systems optimization and developing Small Languages Models for companies that uses conversational models and natural languages processing for sales. *Did you know that its possible to derive users'intent throught the user-model conversation semantic latent space?*
-- Deploying sentence embedding models for semantic analysis and sentiment/survival extraction in chatbots conversations
-____________________________________________________________________________________________________________________________________________________________________
-🔍 **Research interests**  
-- AI Engineering: Foundation models, Generative AI, Agentic systems and Machine Learning techniques
-- Faithfulness, fairness and safety on AI systems deployment 
-- Parameter Efficient Fine-Tuning techniques
-- Semantic analysis and sentiment/survival NLP modeling in human–AI interactions
+## 💡 About me
+
+I'm passionate about developing and optimizing AI systems. I enjoy searching for and reading new papers about novel AI techniques and staying aware of the state of the art in Foundation Models and Generative AI. I'm a beginner Mandarin student and I'm in love with Chinese culture and customs. I love cooking Chinese food and I dream about getting the opportunity to visit the country soon — and maybe learning a bit of Shaolin Kung Fu! I also love photography, cats, and watching sci-fi series and movies.
+
+---
+
+🚀 **Current focus**
+- Working on agentic AI systems optimization and developing Small Language Models for companies that use conversational models and natural language processing for sales. *Did you know it's possible to derive a user's intent from the semantic latent space of the user–model conversation?*
+- Deploying sentence-embedding models for semantic analysis and sentiment extraction in chatbot conversations.
+
+---
+
+🔍 **Research interests**
+- AI Engineering: foundation models, generative AI, agentic systems and machine learning techniques
+- Faithfulness, fairness and safety in AI systems deployment
+- Parameter-Efficient Fine-Tuning techniques
+- Semantic analysis and sentiment NLP modeling in human–AI interactions
 - Real-time semantic data enrichment for urban mobility
 
-📚 **Recent research**  
-- Foundation Models and NLP: Measurement of Lead Temperature using NLP and semantic analysis of the conversational embbeding space in agentic systems (FAPEMIG Project) 
-- Intelligent Cities, Foundation Models and Agentic Systems: Multi-agent approach for the real-time semantic entichment of urban mobility data (TCC)
-____________________________________________________________________________________________________________________________________________________________________
-🧰 **Tech Stack**  
+📚 **Recent research**
+- *Foundation Models and NLP* — Measuring lead temperature using NLP and semantic analysis of the conversational embedding space in agentic systems (FAPEMIG Project)
+- *Intelligent Cities, Foundation Models and Agentic Systems* — A multi-agent approach for real-time semantic enrichment of urban mobility data (TCC)
+
+---
+
+🧰 **Tech Stack**
 - **Programming Languages:** C/C++, Python, JavaScript, PHP, CSS
-- **AI and Machine Learning toolkit:** SmolAgents, HuggingFace, TensorFlow, Keras, PyTorch, MLFlow, SHAP/LIME
-- **Computer Vision and Data Science toolkit:** OpenCV, Scikit-learn, Numpy, Pandas, Matplotlib, Seaborn
-- **Data engineer and DevOps:** Git, Docker, Automated Excel, Power BI, CI/CD
-____________________________________________________________________________________________________________________________________________________________________
+- **AI & Machine Learning:** SmolAgents, HuggingFace, TensorFlow, Keras, PyTorch, MLflow, SHAP/LIME
+- **Computer Vision & Data Science:** OpenCV, Scikit-learn, NumPy, Pandas, Matplotlib, Seaborn, Plotly
+- **Data Engineering & DevOps:** Git, Docker, Power BI, CI/CD
 
-💬 Curious? Ask me about anything and considere visiting my WebSite! I enjoy discussing AI, Computer Science theory, Inteligent Cities conectivitty and 中国文
+---
 
-📫 How to reach me: selene@ufmg.br
+💬 Curious? Ask me anything! I enjoy discussing AI, computer science theory, Intelligent Cities connectivity and 中国文化.
 
-:camera: Check out my flickr: https://www.flickr.com/photos/188150337@N03/
+📫 **How to reach me:** selene@ufmg.br
+
+📷 **Flickr:** https://www.flickr.com/photos/188150337@N03/
+
 
 <div align="left">
    <a href="https://github.com/SeleneMelo">
