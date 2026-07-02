@@ -6,7 +6,7 @@
 
 ## 💡 About me
 
-I'm passionate about developing and optimizing AI systems. I enjoy searching for and reading new papers about novel AI techniques and staying aware of the state of the art in Foundation Models and Generative AI. I'm a beginner 中文 student and I'm in love with Chinese culture and customs. I love cooking Chinese food and I dream about getting the opportunity to visit the country soon, and maybe learning a bit of Shaolin Kung Fu! I also love photography, cats, and watching sci-fi series and movies.
+I'm passionate about developing and optimizing AI systems. I enjoy searching for and reading new papers about novel AI techniques and staying aware of the state of the art in Foundation Models and Generative AI. I'm a beginner 中文 student and I'm in love with Chinese culture and customs. I love cooking Chinese food and I dream about getting the opportunity to visit the country soon, and maybe learn a bit of Shaolin Kung Fu! I also love photography, cats, and watching sci-fi series and movies.
 
 ---
 
